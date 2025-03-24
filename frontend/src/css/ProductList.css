@@ -1,0 +1,50 @@
+.icon {
+    margin-top: 4px;
+    font-size: 25px;
+    margin: 10px;
+}
+
+.count {
+    font-size: 25px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.btn-add-to-cart {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn-add-to-cart .icon {
+    margin-left: 8px;
+    font-size: 18px;
+}
+
+.btn-add-to-cart:hover {
+    background-color: #218838;
+}
+
+.btn-add-to-cart:focus {
+    outline: none;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+.table {
+    margin-bottom: 50px;
+}

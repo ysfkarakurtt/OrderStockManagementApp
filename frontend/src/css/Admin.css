@@ -1,0 +1,26 @@
+.container {
+    font-family: Arial, sans-serif;
+}
+
+.text-center {
+    color: #333;
+}
+
+.table {
+    margin-top: 20px;
+    border: 1px solid #ddd;
+}
+
+.thead-dark th {
+    background-color: #343a40;
+    color: #fff;
+}
+
+.alert {
+    margin-top: 20px;
+}
+
+.page-title {
+    text-align: center;
+    margin-top: 150px;
+}

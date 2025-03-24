@@ -1,0 +1,28 @@
+.drawer {
+    width: 500px !important;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 15px;
+
+}
+
+.detail {
+    margin-right: 10px;
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.delete-button {
+    width: 50px;
+    margin: 10px;
+
+}
+
+.order-button {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
